@@ -1,0 +1,113 @@
+[
+    {
+        "data": "2024-01-01",
+        "índice_de_saúde": 0.8,
+        "espécie": "Acropora cervicornis",
+        "status": "em perigo",
+        "temperatura": 27,
+        "ph": 8.1,
+        "salinidade": 35,
+        "análise": "O índice de saúde deste recife de coral (Acropora cervicornis) é de 0.8, indicando uma condição razoável. A espécie está classificada como em perigo, destacando a necessidade de medidas de conservação."
+    },
+    {
+        "data": "2024-01-16",
+        "índice_de_saúde": 0.78,
+        "espécie": "Porites astreoides",
+        "status": "em perigo",
+        "temperatura": 27.5,
+        "ph": 8.0,
+        "salinidade": 34.9,
+        "análise": "O índice de saúde deste recife de coral (Porites astreoides) é de 0.78, indicando uma condição razoável. A espécie está classificada como em perigo, ressaltando a importância da conservação."
+    },
+    {
+        "data": "2024-01-31",
+        "índice_de_saúde": 0.75,
+        "espécie": "Montastraea annularis",
+        "status": "vulnerável",
+        "temperatura": 27.8,
+        "ph": 8.2,
+        "salinidade": 35.1,
+        "análise": "O índice de saúde deste recife de coral (Montastraea annularis) é de 0.75, indicando uma condição razoável. A espécie está classificada como vulnerável, ressaltando a importância da proteção."
+    },
+    {
+        "data": "2024-02-15",
+        "índice_de_saúde": 0.82,
+        "espécie": "Acropora palmata",
+        "status": "em perigo",
+        "temperatura": 27.6,
+        "ph": 8.1,
+        "salinidade": 35.3,
+        "análise": "O índice de saúde deste recife de coral (Acropora palmata) é de 0.82, indicando uma condição muito boa. No entanto, a espécie está classificada como em perigo, exigindo medidas de conservação imediatas."
+    },
+    {
+        "data": "2024-03-01",
+        "índice_de_saúde": 0.79,
+        "espécie": "Diploria labyrinthiformis",
+        "status": "vulnerável",
+        "temperatura": 27.7,
+        "ph": 8.3,
+        "salinidade": 35.2,
+        "análise": "O índice de saúde deste recife de coral (Diploria labyrinthiformis) é de 0.79, indicando uma condição razoável. A espécie está classificada como vulnerável, destacando a importância da conservação."
+    },
+    {
+        "data": "2024-03-16",
+        "índice_de_saúde": 0.85,
+        "espécie": "Orbicella faveolata",
+        "status": "ameaçada",
+        "temperatura": 27.9,
+        "ph": 8.2,
+        "salinidade": 35.4,
+        "análise": "O índice de saúde deste recife de coral (Orbicella faveolata) é de 0.85, indicando uma condição muito boa. No entanto, a espécie está classificada como ameaçada, exigindo medidas de conservação adicionais."
+    },
+    {
+        "data": "2024-03-31",
+        "índice_de_saúde": 0.73,
+        "espécie": "Siderastrea siderea",
+        "status": "vulnerável",
+        "temperatura": 28.1,
+        "ph": 8.0,
+        "salinidade": 35.3,
+        "análise": "O índice de saúde deste recife de coral (Siderastrea siderea) é de 0.73, indicando uma condição razoável. A espécie está classificada como vulnerável, ressaltando a importância da proteção."
+    },
+    {
+        "data": "2024-04-15",
+        "índice_de_saúde": 0.88,
+        "espécie": "Mycetophyllia danaana",
+        "status": "ameaçada",
+        "temperatura": 27.5,
+        "ph": 8.1,
+        "salinidade": 35.5,
+        "análise": "O índice de saúde deste recife de coral (Mycetophyllia danaana) é de 0.88, indicando uma condição muito boa. No entanto, a espécie está classificada como ameaçada, sugerindo a necessidade de medidas de conservação adicionais."
+    },
+    {
+        "data": "2024-04-30",
+        "índice_de_saúde": 0.76,
+        "espécie": "Pseudodiploria strigosa",
+        "status": "vulnerável",
+        "temperatura": 27.8,
+        "ph": 8.3,
+        "salinidade": 35.2,
+        "análise": "O índice de saúde deste recife de coral (Pseudodiploria strigosa) é de 0.76, indicando uma condição razoável. A espécie está classificada como vulnerável, ressaltando a importância da conservação."
+    },
+    {
+        "data": "2024-05-15",
+        "índice_de_saúde": 0.83,
+        "espécie": "Porites astreoides",
+        "status": "em perigo",
+        "temperatura": 27.6,
+        "ph": 8.2,
+        "salinidade": 35.3,
+        "análise": "O índice de saúde deste recife de coral (Porites astreoides) é de 0.83, indicando uma condição muito boa. No entanto, a espécie está classificada como em perigo, exigindo medidas de conservação."
+    },
+    {
+        "data": "2024-05-30",
+        "índice_de_saúde": 0.72,
+        "espécie": "Siderastrea radians",
+        "status": "vulnerável",
+        "temperatura": 28.0,
+        "ph": 8.1,
+        "salinidade": 35.4,
+        "análise": "O índice de saúde deste recife de coral (Siderastrea radians) é de 0.72, indicando uma condição razoável. A espécie está classificada como vulnerável, destacando a importância da proteção."
+    }
+ ]
+ 

@@ -1,0 +1,47 @@
+[
+   {
+       "date": "2024-01-01",
+       "health_index": 0.8,
+       "species": "Acropora cervicornis",
+       "status": "endangered",
+       "temperature": 27,
+       "ph": 8.1,
+       "salinity": 35
+   },
+   {
+       "date": "2024-02-01",
+       "health_index": 0.75,
+       "species": "Acropora palmata",
+       "status": "endangered",
+       "temperature": 27.5,
+       "ph": 8.0,
+       "salinity": 34.8
+   },
+   {
+       "date": "2024-03-01",
+       "health_index": 0.82,
+       "species": "Montastraea cavernosa",
+       "status": "vulnerable",
+       "temperature": 28,
+       "ph": 8.2,
+       "salinity": 35.2
+   },
+   {
+       "date": "2024-04-01",
+       "health_index": 0.78,
+       "species": "Porites astreoides",
+       "status": "endangered",
+       "temperature": 27.8,
+       "ph": 8.1,
+       "salinity": 35
+   },
+   {
+       "date": "2024-05-01",
+       "health_index": 0.74,
+       "species": "Siderastrea siderea",
+       "status": "vulnerable",
+       "temperature": 28.2,
+       "ph": 8.0,
+       "salinity": 34.7
+   }
+]
